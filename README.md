@@ -1,6 +1,5 @@
 # Responsive Admin Dashboard (React, Tailwind CSS, Recharts, Light/Dark Mode)
-
-[![License](LICENSE_BADGE_URL)](LICENSE_URL) [![Last Commit](LAST_COMMIT_BADGE_URL)](REPO_URL/commits/main) A responsive admin dashboard template built using React for the frontend, styled with Tailwind CSS for utility-first styling, leveraging Recharts for interactive charts and data visualization, and featuring seamless light and dark mode switching.
+A responsive admin dashboard template built using React for the frontend, styled with Tailwind CSS for utility-first styling, leveraging Recharts for interactive charts and data visualization, and featuring seamless light and dark mode switching.
 
 ## Table of Contents
 
